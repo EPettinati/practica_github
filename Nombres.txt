@@ -1,6 +1,3 @@
 Ezequiel Pettinati
-<<<<<<< HEAD
 Daniela Romero
-=======
 Ayelen Marti
->>>>>>> 5a734cb168ccb3f8fc00b385aaa7c153c53a3650
